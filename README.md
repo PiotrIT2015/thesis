@@ -22,3 +22,6 @@ Project is created with:
 * pygtk, gtk library
 * numpy library
 * scipy library
+
+
+![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-3-pca.jpeg?raw=true )
