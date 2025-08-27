@@ -25,3 +25,5 @@ Project is created with:
 
 
 ![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-3-pca.jpeg?raw=true )
+
+![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-3-pca-2.jpeg?raw=true )
