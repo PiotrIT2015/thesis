@@ -24,6 +24,10 @@ Project is created with:
 * scipy library
 
 
+![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-1-pca.jpeg?raw=true )
+
+![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-2-pca.jpg?raw=true )
+
 ![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-3-pca.jpeg?raw=true )
 
-![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-3-pca-2.jpeg?raw=true )
+![image alt]( https://github.com/PiotrIT2015/thesis/blob/master/screenshot-4-pca.jpeg?raw=true )
